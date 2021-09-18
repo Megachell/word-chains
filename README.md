@@ -7,4 +7,4 @@ The notebook generates a visualisation of a graph for the following sequence for
 The result looks like this:
 ![Norvegian graph](norvegian.png)
 
-MEdium article about it: https://vityazevdanil.medium.com/how-many-numbers-have-the-same-number-of-letters-in-their-name-as-their-value-b9387d906b13
+Medium article about it: https://vityazevdanil.medium.com/how-many-numbers-have-the-same-number-of-letters-in-their-name-as-their-value-b9387d906b13
